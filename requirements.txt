@@ -1,4 +1,4 @@
 fastapi
 uvicorn
-llama-cpp-python
 requests
+llama-cpp-python --only-binary :all:
